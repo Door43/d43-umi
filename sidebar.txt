@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[umi:home|Door43 (umi)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-umi|d43-umi repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-umi/archive/master.zip|d43-umi.zip]]
+
+**Recent Changes**
+{{changes>ns = umi}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/umi|Ethnologue data]]
+
